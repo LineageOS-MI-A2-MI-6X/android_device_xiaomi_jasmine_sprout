@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "LineageOS-MI-A2-MI-6X/android_device_xiaomi_sdm660-common",
+    "target_path": "device/xiaomi/sdm660-common",
+    "branch":      "lineageos-17.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS-MI-A2-MI-6X/android_kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/sdm660",
+    "branch":      "master"
+  },
+  {
+    "remote":      "github",
+    "repository":  "xiaomi-sdm660/android_vendor_xiaomi_wayne_common",
+    "target_path": "vendor/xiaomi/wayne_common",
+    "branch":      "master"
+  },
+  {
+    "remote":      "github",
+    "repository":  "xiaomi-sdm660/android_vendor_xiaomi_sdm660-common",
+    "target_path": "vendor/xiaomi/sdm660-common",
+    "branch":      "master"
+  }
+]
