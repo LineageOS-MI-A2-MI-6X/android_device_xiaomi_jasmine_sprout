@@ -39,9 +39,6 @@ TARGET_KERNEL_CONFIG := wayne_defconfig
 # Manifest
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
-# Recovery
-TARGET_PREBUILT_RECOVERY_RAMDISK_CPIO := $(DEVICE_PATH)/twrp/ramdisk-recovery.cpio
-
 # Platform
 BOARD_VENDOR_PLATFORM := xiaomi-sdm660
 
